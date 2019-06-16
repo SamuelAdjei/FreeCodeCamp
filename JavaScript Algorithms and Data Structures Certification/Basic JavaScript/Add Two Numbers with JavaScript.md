@@ -6,9 +6,10 @@ Now let's try to add two numbers using JavaScript.
 
 JavaScript uses the + symbol as addition operation when placed between two numbers.
 
-Example
+**Example**
 
-myVar = 5 + 10; // assigned 15
+
+`myVar = 5 + 10; // assigned 15`
 
 
 
