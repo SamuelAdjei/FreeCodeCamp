@@ -29,6 +29,9 @@ Modify the existing declarations and assignments so their names use *camelCase*
 5. `properCamelCase`should use camelCase in both declaration and assignment sections.
 6. `titleCaseOver`should use camelCase in both declaration and assignment sections.
 
+
+**SOLUTION**
+
     // Declarations
     `var studlyCapVar;`
     `var properCamelCase;`
