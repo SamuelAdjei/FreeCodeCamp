@@ -3,25 +3,25 @@
 Quotes are not the only characters that can be escaped inside a string. There are two reasons to use escaping characters: First is to allow you to use characters you might not otherwise be able to type out, such as a backspace. Second is to allow you to represent multiple quotes in a string without JavaScript misinterpreting what you mean. We learned this in the previous challenge.
 
 
-Code	Output
+Code	    Output
 
 
-`\'`	single quote
+`\'`	    single quote
 
 
-`\"`	double quote
+`\"`	    double quote
 
-`\\`	backslash
+`\\`	    backslash
 
-`\n`	newline
+`\n`	    newline
 
-`\r`	carriage return
+`\r`	    carriage return
+    
+`\t`	    tab
 
-`\t`	tab
+`\b`	    backspace
 
-`\b`	backspace
-
-`\f`	form feed
+`\f`	    form feed
 
 **Note** 
 The backslash itself must be escaped in order to display as a backslash.
