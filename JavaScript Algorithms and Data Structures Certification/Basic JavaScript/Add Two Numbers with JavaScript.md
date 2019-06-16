@@ -13,6 +13,7 @@ myVar = 5 + 10; // assigned 15
 
 
 **CHALLENGE**
+
 Change the 0 so that sum will equal 20.
 1. sum should equal 20
 2. Use the + operator
