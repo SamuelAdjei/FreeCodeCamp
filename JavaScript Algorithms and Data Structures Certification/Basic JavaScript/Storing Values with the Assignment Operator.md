@@ -15,7 +15,7 @@ This assigns `5`to `myVar`and then resolves `myVar`to `5`again and assigns i
 
 ---
 
-CHALLENGE
+**CHALLENGE**
 
 1. Assign the value `7`to variable `a`.
 2. Assign the contents of `a`to variable `b`.
