@@ -30,11 +30,12 @@ Modify the existing declarations and assignments so their names use *camelCase*
 6. `titleCaseOver`should use camelCase in both declaration and assignment sections.
 
     // Declarations
-    var studlyCapVar;
-    var properCamelCase;
-    var titleCaseOver;
+    `var studlyCapVar;`
+    `var properCamelCase;`
+    `var titleCaseOver;`
+    
     
     // Assignments
-    studlyCapVar = 10;
-    properCamelCase = "A String";
-    titleCaseOver = 9000;
+    `studlyCapVar = 10;`
+    `properCamelCase = "A String";`
+    `titleCaseOver = 9000;`
