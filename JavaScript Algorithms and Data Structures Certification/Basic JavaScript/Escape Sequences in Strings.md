@@ -4,16 +4,27 @@ Quotes are not the only characters that can be escaped inside a string. There ar
 
 
 Code	Output
+
+
 `\'`	single quote
+
+
 `\"`	double quote
+
 `\\`	backslash
+
 `\n`	newline
+
 `\r`	carriage return
+
 `\t`	tab
+
 `\b`	backspace
+
 `\f`	form feed
 
-**Note** The backslash itself must be escaped in order to display as a backslash.
+**Note** 
+The backslash itself must be escaped in order to display as a backslash.
 ---------------------------
 
 **CHALLENGE**
