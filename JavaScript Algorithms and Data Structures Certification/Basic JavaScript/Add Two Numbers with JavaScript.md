@@ -17,9 +17,13 @@ Change the 0 so that sum will equal 20.
 1. sum should equal 20
 2. Use the + operator
 
+
 var sum = 10 + 0;
 
 
 
+
 **SOLUTION**
+
+
 var sum = 10 + 10;
