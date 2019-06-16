@@ -1,6 +1,7 @@
 **Compound Assignment With Augmented Subtraction**
 
 
+
 Like the += operator, `-=` subtracts a number from a variable.
 
 `myVar = myVar - 5;`
@@ -10,7 +11,7 @@ will subtract `5` from `myVar`. This can be rewritten as:
 `myVar -= 5;`
 
 --------------------------------
-**CHALLENGE*
+**CHALLENGE**
 
 Convert the assignments for `a`, `b`, and `c` to use the `-=` operator.
 
@@ -21,8 +22,6 @@ Convert the assignments for `a`, `b`, and `c` to use the `-=` operator.
 3. `c` should equal `2`
 
 4. You should use the `-=` operator for each variable
-
-Do not modify the code above the line
 
 
 `var a = 11;`
@@ -52,4 +51,4 @@ Do not modify the code above the line
 
 `a -= 6;`
 `b -= 15;`
-`c == 1;`
+`c -= 1;`
