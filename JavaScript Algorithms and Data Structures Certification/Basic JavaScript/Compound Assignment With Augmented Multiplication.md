@@ -8,6 +8,7 @@ will multiply `myVar` by `5. This can be rewritten as:
 
 `myVar *= 5;`
 
+----------------------------
 
 **CHALLENGE**
 
@@ -38,8 +39,6 @@ b = 3 * b;
 c = c * 10;
 ```
 
-
----------------------------------
 
 **SOLUTION**
 
