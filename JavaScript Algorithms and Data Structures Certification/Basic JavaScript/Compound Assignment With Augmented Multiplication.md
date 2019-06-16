@@ -10,7 +10,7 @@ will multiply `myVar` by `5. This can be rewritten as:
 
 ----------------------------
 
->**CHALLENGE**
+**CHALLENGE**
 
 
 Convert the assignments for `a`, `b`, and `c` to use the `*=` operator.
