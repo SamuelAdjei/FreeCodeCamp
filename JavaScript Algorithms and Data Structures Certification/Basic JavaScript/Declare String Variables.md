@@ -8,6 +8,7 @@ Previously we have used the code
 
 ----------------------
 **CHALLENGE**
+
 Create two new string variables: `myFirstName` and `myLastName` and assign them the values of your first and last name, respectively.
 
 1. `myFirstName` should be a string with at least one character in it.
