@@ -23,9 +23,11 @@ Code	    Output
 
 `\f`	    form feed
 
-*Note* 
+**Note* *
+
 
 The backslash itself must be escaped in order to display as a backslash.
+
 ---------------------------
 
 **CHALLENGE**
