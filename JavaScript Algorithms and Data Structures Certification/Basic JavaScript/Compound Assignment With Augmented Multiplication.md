@@ -43,7 +43,7 @@ Convert the assignments for `a`, `b`, and `c` to use the `*=` operator.
 
 **SOLUTION**
 
-`var a = 5;`
+```var a = 5;`
 
 `var b = 12;`
 
@@ -55,5 +55,5 @@ Convert the assignments for `a`, `b`, and `c` to use the `*=` operator.
 
 `b *= 3;`
 
-`c *= 10;`
+`c *= 10;```
 
