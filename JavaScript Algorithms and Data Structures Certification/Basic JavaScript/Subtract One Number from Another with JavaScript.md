@@ -18,6 +18,7 @@ Change the `0` so the difference is `12`.
 
 
 **SOLUTION**
+
 `var difference = 45 - 33;`
 
 
