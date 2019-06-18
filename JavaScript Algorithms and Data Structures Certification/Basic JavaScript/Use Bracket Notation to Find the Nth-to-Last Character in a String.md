@@ -7,6 +7,7 @@ For example, you can get the value of the third-to-last letter of the `var first
 ---------------------
 
 **CHALLENEGE**
+
 Use _bracket notation_ to find the second-to-last character in the `lastName` string.
 1. `secondToLastLetterOfLastName` should be "c".
 2. You have to use `.length` to get the second last letter.
