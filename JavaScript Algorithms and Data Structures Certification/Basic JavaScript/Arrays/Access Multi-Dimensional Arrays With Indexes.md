@@ -1,5 +1,5 @@
 **Access Multi-Dimensional Arrays With Indexes**
-
+3ekj2b2
 
 One way to think of a _multi-dimensional array_, is as an _array of arrays_. When you use brackets to access your array, the first set of brackets refers to the entries in the outer-most (the first level) array, and each additional pair of brackets refers to the next level of entries inside.
 
