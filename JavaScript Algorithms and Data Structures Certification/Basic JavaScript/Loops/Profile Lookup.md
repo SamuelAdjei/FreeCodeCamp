@@ -58,5 +58,17 @@ lookUpProfile("Akira", "likes");
 **SOLUTION**
 
 ```
-
+function lookUpProfile(name, prop) {
+  for (let x = 0; x < contacts.length; x++) {
+    if (contacts[x].firstName === name) {
+      if (contacts[x].hasOwnProperty(prop)) {
+        return contacts[x][prop]; //If both are true, then return the "value" of that property.
+      } else {
+        return "No such property"; // propdoes not correspond to any valid properties of a contact found to match namethen return "No such property"
+      }
+    }
+    
+  }
+  return "No such contact"; //  namedoes not correspond to any contacts then return "No such contact"
+}
 ```
