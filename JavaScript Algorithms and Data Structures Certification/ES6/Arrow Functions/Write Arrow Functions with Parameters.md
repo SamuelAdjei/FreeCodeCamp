@@ -1,6 +1,6 @@
 **Write Arrow Functions with Parameters**
 
-Just like a normal function, you can pass arguments into arrow functions
+Just like a normal function, you can pass arguments into arrow functions.
 
 ```
 // doubles input value and returns it
