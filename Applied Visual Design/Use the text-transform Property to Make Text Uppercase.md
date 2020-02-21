@@ -6,7 +6,9 @@ The following table shows how the different `text-transform` values change the e
 
 
 **Value**	             **Result**
+
 `lowercase`	          "transform me"
+
 `uppercase`           "TRANSFORM ME"
 
 
