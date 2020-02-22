@@ -1,6 +1,6 @@
 **Set the font-weight for Multiple Heading Elements**
 
-You set the `font-siz`e of each heading tag in the last challenge, here you'll adjust the `font-weight`.
+You set the `font-size` of each heading tag in the last challenge, here you'll adjust the `font-weight`.
 
 The `font-weight` property sets how thick or thin characters are in a section of text.
 
