@@ -28,3 +28,5 @@ function bouncer(arr) {
 bouncer([7, "ate", "", false, 9]);
 
 ```
+
+https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-falsy-bouncer/16014
